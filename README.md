@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">I ❤️ Engineering HW and SW process in general, scpecially on embeded systems, smartcards, robotics, transactionl systems. I am especially interested in management. I love learning, practicing sports, and traveling✈️!</h3>
+<h3 align="center">I ❤️ Engineering HW and SW process in general, specially on embeded systems, smartcards, robotics, transactionl systems. I am especially interested in management. I love learning, practicing sports, and traveling✈️!</h3>
 
 ---
 
