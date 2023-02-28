@@ -5,7 +5,7 @@
 
 - 📝 Electronics Engineer (UTN-FRBA) | MS in SW Engineering | MS in Business Administration
 
-- 🌱 I’m vegan, federate triathlete (3xIronman), and ultra marathonist, SPINING & Yoga Instructor
+- 🌱 I’m vegan, federate triathlete (3xIronman), and ultra marathonist, SPINNING® & Yoga Instructor
 
 ---
 
